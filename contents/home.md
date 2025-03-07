@@ -13,12 +13,19 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 
 #### Research Interests  
 **Statistical Science**
+
 • ​Probability Theory & Mathematical Statistics
+
 • Time Series Analysis
+
 • Markov chains
+
 • Bayesian inference
 
 **Artificial Intelligence**
+
 • Deep learning
+
 • Large Language Models
+
 • Data mining
