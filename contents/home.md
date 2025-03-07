@@ -17,7 +17,8 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 • Time Series Analysis
 • Markov chains
 • Bayesian inference
-**Statistical Science**
+
+**Artificial Intelligence**
 • Deep learning
 • Large Language Models
 • Data mining
