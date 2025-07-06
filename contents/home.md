@@ -5,8 +5,8 @@ I'm currently pursuing a Bachelor's degree in Statistics , Beijing Normal Univer
 
 #### Education  
 **Beijing Normal University**, Bachelor of Statistics (2022 – 2026)  
-• GPA: 3.8/4.0  
-• Ranking: Top 5% 
+• GPA: 3.7/4.0  
+• Ranking: Top 10% 
 
 
 #### Research Interests  
